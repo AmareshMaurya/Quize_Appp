@@ -136,7 +136,7 @@ export default function SignUpPage({ onSignupSuccess = null }) {
               </h2>
 
               <p className={signupStyles.subtitle}>
-                Sign up to start using Hexagon Quiz — light UI, smooth
+                Sign up to start using LanguagePro Quiz — light UI, smooth
                 micro-interactions.
               </p>
 

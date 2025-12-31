@@ -113,7 +113,7 @@ export default function LoginPage({ onLoginSuccess = null }) {
                 </h2>
 
                 <p className={loginStyles.subtitle}>
-                  Sign in to continue to Hexagon Quiz. Light, clean UI — smooth
+                  Sign in to continue to LanguagePro Quiz. Light, clean UI — smooth
                   micro-animations and easy validation.
                 </p>
 
