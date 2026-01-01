@@ -114,23 +114,6 @@ bcrypt
 
 validator
 
-🗂️ Project Structure
-Backend
-backend/
-│── models/
-│── controllers/
-│── routes/
-│── middleware/
-│── config/
-│── server.js
-
-Frontend
-frontend/
-│── components/
-│── pages/
-│── assets/
-│── utils/
-│── App.jsx 
 
 ▶️ How to Run the Project Locally
 📌 Prerequisites
